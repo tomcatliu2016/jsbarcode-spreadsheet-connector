@@ -1,0 +1,4 @@
+{
+  "scriptId": "<Your Script ID>",
+  "rootDir": "./dist/"
+}
